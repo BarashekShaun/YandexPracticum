@@ -8,6 +8,6 @@
 * oil_project - целью проекта является поиск наиболее подходящего региона для выработки нефтяных скважин
 
 
-Libs:
+**Libs:**
 pandas, numpy, sklearn, spacy, nltk, lightgbm, seaborn, matplotlib, catboost, tqdm
 
